@@ -12,17 +12,43 @@ I'm always interested in learning, collaborating with other developers and contr
 
 [LinkedIn](https://www.linkedin.com/in/adegbite-adewale-860a22243/) · [GitHub](https://github.com/tripleAhoy)
 
-<!--
-**tripleAhoy/tripleAhoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technical Skills
 
-Here are some ideas to get you started:
+### Programming Languages
+- Java
+- Python
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend Development
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Cloud
+- FastAPI
+- Node.js
+- RESTful API Development
+- Microservices Architecture
+
+### Frontend Development
+- React
+- HTML
+- CSS
+
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### DevOps & Development Tools
+- Docker
+- Git
+- GitHub
+- Maven
+- Linux
+
+### Architecture & Concepts
+- Microservices
+- Service Discovery
+- API Gateway
+- Inter-service Communication
+- Object-Oriented Programming
